@@ -1,5 +1,5 @@
 ### 👨‍💻 About Me
-I'm a recent Computer Science graduate from the University of Glasgow, currently working at Slido (Cisco). My journey in tech has been filled with diverse experiences, from developing a transpiler for industrial automation standards to full-stack development and research in multi-modal image synthesis.
+I'm a Computer Science graduate from the University of Glasgow, currently working at Slido (Cisco). My journey in tech has been filled with diverse experiences, from developing a transpiler for industrial automation standards to full-stack development and research in multi-modal image synthesis.
 
 ### Languages
 
